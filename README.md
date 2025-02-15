@@ -1,4 +1,5 @@
 # Movie Recommender System
+<video controls src="movie-recommender-system.mp4" title="DEMO"></video>
 
 A simple content-based **movie recommendation system** with [Streamlit deployment](https://movie-recommender-samir.streamlit.app/) that suggests movies based on a user's selected movie 🎬.
 
