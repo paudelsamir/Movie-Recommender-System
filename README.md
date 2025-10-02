@@ -2,6 +2,13 @@
 <video controls src="movie-recommender-system.mp4" title="DEMO"></video>
 
 A simple content-based **movie recommendation system** with [Streamlit deployment](https://movie-recommender-samir.streamlit.app/) that suggests movies based on a user's selected movie 🎬.
+<video src="https://github.com/user-attachments/assets/7e3560c8-da09-4582-9e41-37ced3e9e319" 
+       controls 
+       autoplay 
+       muted 
+       loop 
+       style="max-width: 100%; height: auto;">
+</video>
 
 ## Live at
 Streamlit Cloud: [Check it out here](https://movie-recommender-samir.streamlit.app/)
